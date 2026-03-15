@@ -6,7 +6,7 @@ Welcome to **Code with AI**. This course is designed to transform you from a tra
 ### Learning Outcomes
 * **Master AI Environments:** Configure and navigate cloud-based development using GitHub Codespaces and GitHub Copilot.
 * **Synthetic Data Engineering:** Programmatically generate complex, realistic datasets to simulate real-world scenarios.
-* **Professional Workflow:** Implement industry-standard version control and repository hygiene[cite: 11, 30].
+* **Professional Workflow:** Implement industry-standard version control and repository hygiene.
 
 ---
 
