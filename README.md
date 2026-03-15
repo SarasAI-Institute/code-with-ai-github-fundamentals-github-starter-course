@@ -1,4 +1,4 @@
-# AI Powered Python: The AI Architect 🚀
+# Code with AI: The AI Architect 🚀
 
 ## Course Overview
 Welcome to **AI Powered Python**. This course is designed to transform you from a traditional coder into an **AI Architect**. We focus on high-speed development using AI-driven environments to build professional, data-intensive applications.
